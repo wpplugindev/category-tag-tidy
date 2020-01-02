@@ -1,0 +1,137 @@
+# Copyright (C) 2020 WPplugins.Tech
+# This file is distributed under the same license as the Category Tag Tidy plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Category Tag Tidy 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/category-tag-tidy\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2020-01-02T03:27:50+01:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.4.0\n"
+"X-Domain: category-tag-tidy\n"
+
+#. Plugin Name of the plugin
+#: admin/class-category-tag-tidy-admin.php:84
+#: admin/class-category-tag-tidy-admin.php:85
+#: admin/class-category-tag-tidy-admin.php:99
+#: admin/class-category-tag-tidy-admin.php:100
+#: admin/class-category-tag-tidy-admin.php:117
+msgid "Category Tag Tidy"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://github.com/wpplugins-tech/category-tag-tidy"
+msgstr ""
+
+#. Description of the plugin
+msgid "Allows easy deletion of unused categories and tags - maintains existing category structure."
+msgstr ""
+
+#. Author of the plugin
+msgid "WPplugins.Tech"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://www.wpplugins.tech"
+msgstr ""
+
+#: admin/class-category-tag-tidy-admin.php:150
+msgid "Category and Tag Tidy"
+msgstr ""
+
+#: admin/class-category-tag-tidy-admin.php:153
+msgid "Clear all unused Tags or Categories for all Blogs on this Network"
+msgstr ""
+
+#: admin/class-category-tag-tidy-admin.php:154
+msgid "across ALL blogs on this network"
+msgstr ""
+
+#: admin/class-category-tag-tidy-admin.php:156
+msgid "Clear all unused Tags or Categories from blog"
+msgstr ""
+
+#: admin/class-category-tag-tidy-admin.php:169
+msgid "Select Taxonomies to Tidy"
+msgstr ""
+
+#: admin/class-category-tag-tidy-admin.php:173
+msgid "Categories"
+msgstr ""
+
+#: admin/class-category-tag-tidy-admin.php:177
+msgid "Post Tags"
+msgstr ""
+
+#: admin/class-category-tag-tidy-admin.php:180
+msgid "How it works: In order to maintain your categories structure - unused parent categories will not be deleted if they have a child category still in use."
+msgstr ""
+
+#: admin/class-category-tag-tidy-admin.php:181
+msgid "Tags are not hierarchical so all non-used tags will be deleted."
+msgstr ""
+
+#: admin/class-category-tag-tidy-admin.php:182
+msgid "Categories or Tags linked with content in the trash will not be deleted."
+msgstr ""
+
+#: admin/class-category-tag-tidy-admin.php:183
+msgid "Note: you will be asked to confirm on the next screen"
+msgstr ""
+
+#: admin/class-category-tag-tidy-admin.php:187
+msgid "Run Tag Tidy"
+msgstr ""
+
+#: admin/class-category-tag-tidy-admin.php:201
+msgid "This process will clear all unused <b>tags</b> and <b>categories</b>"
+msgstr ""
+
+#: admin/class-category-tag-tidy-admin.php:203
+msgid "This process will clear all unused <b>tags</b>"
+msgstr ""
+
+#: admin/class-category-tag-tidy-admin.php:205
+msgid "This process will clear all unused <b>categories</b>"
+msgstr ""
+
+#. translators: %s is replaced with the back link
+#: admin/class-category-tag-tidy-admin.php:213
+msgid "Please go <a href=\"%s\">back</a> and select a taxonomy"
+msgstr ""
+
+#: admin/class-category-tag-tidy-admin.php:221
+msgid "Are you sure you wish to proceed?"
+msgstr ""
+
+#: admin/class-category-tag-tidy-admin.php:222
+msgid "<b>Note:</b> This action is <i>not</i> reversible"
+msgstr ""
+
+#: admin/class-category-tag-tidy-admin.php:227
+msgid "Let's Do it!"
+msgstr ""
+
+#: admin/class-category-tag-tidy-admin.php:254
+msgid "Processing post categories: "
+msgstr ""
+
+#. translators: %d is replaced with the number 1 (for one term deleted)
+#: admin/class-category-tag-tidy-admin.php:258
+#: admin/class-category-tag-tidy-admin.php:270
+msgid "%d term deleted"
+msgstr ""
+
+#. translators: %d is replaced with number of deleted terms
+#: admin/class-category-tag-tidy-admin.php:261
+#: admin/class-category-tag-tidy-admin.php:272
+msgid "%d terms deleted"
+msgstr ""
+
+#: admin/class-category-tag-tidy-admin.php:267
+msgid "Processing post tags: "
+msgstr ""
