@@ -98,7 +98,7 @@ class Category_Tag_Tidy_Admin {
 		add_menu_page( 
 			__( 'Category Tag Tidy','category-tag-tidy' ),
 			__( 'Category Tag Tidy','category-tag-tidy' ),
-			'manage_categories', // TODO:  change icon????
+			'manage_categories',
 			'category-tag-tidy',
 			array( $this, 'display_form'),
 			'dashicons-tag'
