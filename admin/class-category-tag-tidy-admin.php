@@ -426,7 +426,7 @@ class Category_Tag_Tidy_Admin {
 				$term->term_id 
 				) );
 
-			if (!$posts_exist) {
+			if (!$posts_exist && $term->term_id != 1) {
 				$this->delete_term($term->term_id,$term->name,'category',$blog_id);
 				$term_deleted = true;
 			}
