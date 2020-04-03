@@ -3,7 +3,7 @@
 /**
  * Fired when the plugin is uninstalled.
  *
- * @link       http://www.wpplugins.tech
+ * @link       http://www.wpplugindev.net
  * @since      1.0.0
  *
  * @package    Category_Tag_Tidy

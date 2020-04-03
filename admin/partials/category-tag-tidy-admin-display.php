@@ -5,7 +5,7 @@
  *
  * This file is used to markup the admin-facing aspects of the plugin.
  *
- * @link       http://www.wpplugins.tech
+ * @link       http://www.wpplugindev.net
  * @since      1.0.0
  *
  * @package    Category_Tag_Tidy

@@ -6,7 +6,7 @@
  * Loads and defines the internationalization files for this plugin
  * so that it is ready for translation.
  *
- * @link       http://www.wpplugins.tech
+ * @link       http://www.wpplugindev.net
  * @since      1.0.0
  *
  * @package    Category_Tag_Tidy
@@ -22,7 +22,7 @@
  * @since      1.0.0
  * @package    Category_Tag_Tidy
  * @subpackage Category_Tag_Tidy/includes
- * @author     WPplugins.Tech <info@wpplugins.tech>
+ * @author     WPplugindev.Net <info@wpplugindev.net>
  */
 class Category_Tag_Tidy_i18n {
 

@@ -1,4 +1,4 @@
-# Copyright (C) 2020 WPplugins.Tech
+# Copyright (C) 2020 WPplugindev.Net
 # This file is distributed under the same license as the Category Tag Tidy plugin.
 msgid ""
 msgstr ""
@@ -6,7 +6,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/category-tag-"
 "tidy\n"
 "POT-Creation-Date: 2020-01-02T03:27:50+01:00\n"
-"PO-Revision-Date: 2020-01-02 13:33+1100\n"
+"PO-Revision-Date: 2020-04-03 15:35+1100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: en\n"
@@ -27,8 +27,8 @@ msgid "Category Tag Tidy"
 msgstr "Category Tag Tidy"
 
 #. Plugin URI of the plugin
-msgid "https://github.com/wpplugins-tech/category-tag-tidy"
-msgstr "https://github.com/wpplugins-tech/category-tag-tidy"
+msgid "https://github.com/wpplugindev/category-tag-tidy"
+msgstr "https://github.com/wpplugindev/category-tag-tidy"
 
 #. Description of the plugin
 msgid ""
@@ -39,12 +39,12 @@ msgstr ""
 "category structure."
 
 #. Author of the plugin
-msgid "WPplugins.Tech"
-msgstr "WPplugins.Tech"
+msgid "WPplugindev.Net"
+msgstr "WPplugindev.Net"
 
 #. Author URI of the plugin
-msgid "http://www.wpplugins.tech"
-msgstr "http://www.wpplugins.tech"
+msgid "http://www.wpplugindev.net"
+msgstr "http://www.wpplugindev.net"
 
 #: admin/class-category-tag-tidy-admin.php:150
 msgid "Category and Tag Tidy"

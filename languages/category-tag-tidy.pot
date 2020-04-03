@@ -1,5 +1,6 @@
-# Copyright (C) 2020 WPplugins.Tech
+# Copyright (C) 2020 WPplugindev.Net
 # This file is distributed under the same license as the Category Tag Tidy plugin.
+#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Category Tag Tidy 1.0.0\n"
@@ -9,9 +10,9 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2020-01-02T03:27:50+01:00\n"
+"POT-Creation-Date: 2020-04-03 15:31+1100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"X-Generator: WP-CLI 2.4.0\n"
+"X-Generator: Poedit 2.2.4\n"
 "X-Domain: category-tag-tidy\n"
 
 #. Plugin Name of the plugin
@@ -24,7 +25,7 @@ msgid "Category Tag Tidy"
 msgstr ""
 
 #. Plugin URI of the plugin
-msgid "https://github.com/wpplugins-tech/category-tag-tidy"
+msgid "https://github.com/wpplugindev/category-tag-tidy"
 msgstr ""
 
 #. Description of the plugin
@@ -32,11 +33,11 @@ msgid "Allows easy deletion of unused categories and tags - maintains existing c
 msgstr ""
 
 #. Author of the plugin
-msgid "WPplugins.Tech"
+msgid "WPplugindev.Net"
 msgstr ""
 
 #. Author URI of the plugin
-msgid "http://www.wpplugins.tech"
+msgid "http://www.wpplugindev.net"
 msgstr ""
 
 #: admin/class-category-tag-tidy-admin.php:150

@@ -1,5 +1,5 @@
 === Category Tag Tidy ===
-Contributors: wpplugins-tech
+Contributors: wpplugindev
 Tags: Category, Tag, Multisite, clean, tidy, unused tags, unused categories, delete
 Requires at least: 4.0
 Tested up to: 5.3.2
@@ -38,7 +38,7 @@ For multisite installations unused tags and categories on all sites can be quick
 
 ### Links
 
-- [GitHub Repository](https://github.com/wpplugins-tech/category-tag-tidy)
+- [GitHub Repository](https://github.com/wpplugindev/category-tag-tidy)
 
 == Installation ==
 

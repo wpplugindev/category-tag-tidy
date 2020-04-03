@@ -3,7 +3,7 @@
 /**
  * The admin-specific functionality of the plugin.
  *
- * @link       http://www.wpplugins.tech
+ * @link       http://www.wpplugindev.net
  * @since      1.0.0
  *
  * @package    Category_Tag_Tidy
@@ -15,7 +15,7 @@
  *
  * @package    Category_Tag_Tidy
  * @subpackage Category_Tag_Tidy/admin
- * @author     WPplugins.Tech <info@wpplugins.tech>
+ * @author     WPplugindev.Net <info@wpplugindev.net>
  */
 class Category_Tag_Tidy_Admin {
 

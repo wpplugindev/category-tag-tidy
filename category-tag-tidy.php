@@ -4,17 +4,17 @@
  * The plugin bootstrap file
  *
  *
- * @link              http://www.wpplugins.tech
+ * @link              http://www.wpplugindev.net
  * @since             1.0.0
  * @package           Category_Tag_Tidy
  *
  * @wordpress-plugin
  * Plugin Name:       Category Tag Tidy
- * Plugin URI:        https://github.com/wpplugins-tech/category-tag-tidy
+ * Plugin URI:        https://github.com/wpplugindev/category-tag-tidy
  * Description:       Allows easy deletion of unused categories and tags - maintains existing category structure. 
  * Version:           1.0.0
- * Author:            WPplugins.Tech
- * Author URI:        http://www.wpplugins.tech
+ * Author:            WPplugindev.Net
+ * Author URI:        http://www.wpplugindev.net
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
  * Text Domain:       category-tag-tidy
